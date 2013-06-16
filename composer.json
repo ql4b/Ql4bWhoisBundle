@@ -1,5 +1,5 @@
 {
-    "name": "ql4b/whois",
+    "name": "ql4b/whois-bundle",
     "description": "Symfony Bundle including a whois client service (using http://www.phpwhois.org/)",
     "license": "MIT",
     "authors": [
